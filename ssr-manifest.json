@@ -17,90 +17,90 @@
   "src/main.ts": [],
   "index.html": [],
   "\u0000commonjsHelpers.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "\u0000G:/Projects/br/own/broken-rubik-blog/node_modules/nprogress/nprogress.js?commonjs-module": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/nprogress/nprogress.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/vue-demi/lib/index.mjs": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/api.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/app.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/component.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/context.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/util.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/index.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/plugin.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/pinia/dist/pinia.esm-browser.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/vite-ssg/dist/chunk-YPUM4SRK.mjs": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/vite-ssg/dist/chunk-UH52UDT5.mjs": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/vue-router/dist/vue-router.esm-bundler.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/@vueuse/head/dist/index.mjs": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "node_modules/vite-ssg/dist/index.mjs": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.ca02b179.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
   ],
   "~icons/carbon/warning": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/404.69c84aab.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/404.1616dff6.js"
   ],
   "src/layouts/404.vue": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/404.69c84aab.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/404.1616dff6.js"
   ]
 }
