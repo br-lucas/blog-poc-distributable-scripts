@@ -2,10 +2,10 @@
   "vite/modulepreload-polyfill": [],
   "src/modules/nprogress.ts": [],
   "src/modules/pinia.ts": [],
+  "vite/preload-helper": [],
   "~icons/carbon/campsite": [],
   "src/pages/index.vue": [],
   "../../../../@vite-plugin-pages/generated-pages": [],
-  "vite/preload-helper": [],
   "plugin-vue:export-helper": [],
   "src/layouts/default.vue": [],
   "../../../../@vite-plugin-vue-layouts/generated-layouts": [],
@@ -96,6 +96,15 @@
   ],
   "node_modules/vite-ssg/dist/index.mjs": [
     "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.6951912d.js"
+  ],
+  "src/pages/test/asd.vue": [
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/asd.dbc59982.js"
+  ],
+  "src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_...all_.6124b188.js"
+  ],
+  "src/pages/[...all].vue": [
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_...all_.6124b188.js"
   ],
   "~icons/carbon/warning": [
     "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/404.1616dff6.js"
