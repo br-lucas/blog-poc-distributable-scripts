@@ -17,90 +17,90 @@
   "src/main.ts": [],
   "index.html": [],
   "\u0000commonjsHelpers.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "\u0000G:/Projects/br/own/broken-rubik-blog/node_modules/nprogress/nprogress.js?commonjs-module": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/nprogress/nprogress.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/vue-demi/lib/index.mjs": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/api.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/app.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/component.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/context.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/util.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/index.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/plugin.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/pinia/dist/pinia.esm-browser.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/vite-ssg/dist/chunk-YPUM4SRK.mjs": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/vite-ssg/dist/chunk-UH52UDT5.mjs": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/vue-router/dist/vue-router.esm-bundler.js": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/@vueuse/head/dist/index.mjs": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "node_modules/vite-ssg/dist/index.mjs": [
-    "https://www.test.com/assets/vendor.67c01a5b.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.67c01a5b.js"
   ],
   "~icons/carbon/warning": [
-    "https://www.test.com/assets/404.7a2ccc9a.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/404.7a2ccc9a.js"
   ],
   "src/layouts/404.vue": [
-    "https://www.test.com/assets/404.7a2ccc9a.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/404.7a2ccc9a.js"
   ]
 }
