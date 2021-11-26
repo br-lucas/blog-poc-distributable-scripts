@@ -31,271 +31,271 @@
   "src/main.ts": [],
   "index.html": [],
   "\u0000commonjsHelpers.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "\u0000G:/Projects/br/own/broken-rubik-blog/node_modules/nprogress/nprogress.js?commonjs-module": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/nprogress/nprogress.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/vue-demi/lib/index.mjs": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/api.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/app.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/component.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/context.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/util.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/index.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/plugin.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/pinia/dist/pinia.esm-browser.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/enums.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getNodeName.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getWindow.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/instanceOf.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/modifiers/applyStyles.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/getBasePlacement.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getBoundingClientRect.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getLayoutRect.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/contains.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getComputedStyle.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/isTableElement.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getDocumentElement.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getParentNode.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getOffsetParent.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/getMainAxisFromPlacement.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/math.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/within.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/getFreshSideObject.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/mergePaddingObject.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/expandToHashMap.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/modifiers/arrow.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/getVariation.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/modifiers/computeStyles.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/modifiers/eventListeners.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/getOppositePlacement.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/getOppositeVariationPlacement.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getWindowScroll.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getWindowScrollBarX.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getViewportRect.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getDocumentRect.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/isScrollParent.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getScrollParent.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/listScrollParents.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/rectToClientRect.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getClippingRect.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/computeOffsets.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/detectOverflow.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/computeAutoPlacement.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/modifiers/flip.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/modifiers/hide.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/modifiers/offset.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/modifiers/popperOffsets.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/getAltAxis.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/modifiers/preventOverflow.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/modifiers/index.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getHTMLElementScroll.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getNodeScroll.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/dom-utils/getCompositeRect.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/orderModifiers.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/debounce.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/format.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/validateModifiers.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/uniqueBy.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/utils/mergeByName.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/createPopper.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/popper-lite.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/popper.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@popperjs/core/lib/index.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/vue-resize/dist/vue-resize.esm.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/v-tooltip/dist/v-tooltip.esm.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/vite-ssg/dist/chunk-YPUM4SRK.mjs": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/vite-ssg/dist/chunk-UH52UDT5.mjs": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/vue-router/dist/vue-router.esm-bundler.js": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vueuse/head/dist/index.mjs": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/vite-ssg/dist/index.mjs": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vueuse/shared/index.mjs": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "node_modules/@vueuse/core/index.mjs": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.3308d748.js"
   ],
   "src/pages/tags/new.vue": [
     "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/new.56802bc7.js"
@@ -337,24 +337,24 @@
     "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/index.e6331d80.js"
   ],
   "src/pages/tags/[id].vue": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_id_.c2d3c4f8.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_id_.992c3847.js"
   ],
   "src/pages/posts/[id].vue": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_id_.05f1054e.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_id_.50dc4862.js"
   ],
   "src/pages/comments/[id].vue": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_id_.09016ba6.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_id_.af2abe12.js"
   ],
   "src/pages/categories/[id].vue": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_id_.351293ed.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_id_.e771e58b.js"
   ],
   "src/pages/blogs/[id].vue": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_id_.38dc5c07.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_id_.25b332c3.js"
   ],
   "src/pages/authors/[id].vue": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_id_.ab73c996.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_id_.4c295aaa.js"
   ],
   "src/pages/[...all].vue": [
-    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_...all_.620936ae.js"
+    "https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/_...all_.5d4d37d4.js"
   ]
 }
