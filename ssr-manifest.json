@@ -27,6 +27,7 @@
   "../../../../@windicss/windi-components.css": [],
   "src/styles/main.scss": [],
   "../../../../@windicss/windi-utilities.css": [],
+  "src/lib/impl/netsuite/NetSuiteImplementation.ts": [],
   "src/main.ts": [],
   "index.html": [],
   "\u0000commonjsHelpers.js": [
