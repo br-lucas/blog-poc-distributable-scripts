@@ -8,6 +8,9 @@
   <link rel="mask-icon" href="https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/safari-pinned-tab.svg" color="#00aba9">
   <meta name="msapplication-TileColor" content="#00aba9">
   <meta name="theme-color" content="#ffffff">
+  <script src="https://cdn.jsdelivr.net/gh/br-lucas/toasts-dist@8a948fc/dist/main.js" defer="true" id="modern-toaster" type="module"></script>
+  <script src="https://cdn.jsdelivr.net/gh/br-lucas/toasts-dist@8a948fc/dist/main.iife.js" defer="true" id="legacy-toaster" nomodule="true"></script>
+  <link id="toast-css" rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/br-lucas/toasts-dist@8a948fc/dist/bundle.css" media="all">
   <script>
     (function() {
       const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
@@ -16,9 +19,9 @@
         document.documentElement.classList.toggle('dark', true)
     })()
   </script>
-  <script type="module" crossorigin src="https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/app.da630323.js"></script>
-  <link rel="modulepreload" href="https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.4a4cde50.js">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/app.eb4a3bf2.css">
+  <script type="module" crossorigin src="https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/index.c12e9391.js"></script>
+  <link rel="modulepreload" href="https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/vendor.68906bd2.js">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/br-lucas/blog-poc-distributable-scripts/assets/index.4dd4ba54.css">
 </head>
 <body>
   <div id="app"></div>
